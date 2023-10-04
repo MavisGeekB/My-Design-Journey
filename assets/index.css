@@ -1,0 +1,202 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+}
+
+
+h1 {
+    padding: 60px;
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    margin: -10px;
+}
+
+.design {
+    display: block;
+}
+
+
+.topbar-nav {
+    background-color: grey;
+    overflow: hidden;
+}
+
+.topbar-nav ul {
+    list-style-type: none;
+    float: right;
+    display: flex;
+    padding-right: 10px;
+    word-spacing: 10px;
+}
+
+.topbar-nav a {
+    list-style-type: none;
+    float: right;
+    display: flex;
+    color: white;
+    padding-right: 10px;
+    word-spacing: 10px;
+}
+
+.topbar-nav a:hover {
+    background-color: red;
+}
+
+
+
+hr {
+    height: 2px;
+    border-width: 0;
+    color: gray;
+    background-color: gray;
+}
+
+.newsletter {
+    border-radius: 4px;
+    width: 500px;
+    padding-left: 5px;
+}
+
+.newsletter p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+.newsletter img {
+    width: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 16px;
+}
+
+
+.environment-poster {
+    border-radius: 4px;
+    width: 500px;
+    padding-left: 5px;
+}
+
+.environment-poster p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+.environment-poster img {
+    width: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 16px;
+}
+
+
+.versions {
+    text-align: right;
+    width: 200px;
+}
+
+
+.row {
+    display: flex;
+}
+
+.fruit-newsletter {
+    border-radius: 4px;
+    width: 500px;
+    padding-left: 5px;
+}
+
+.fruit-newsletter p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+.fruit-newsletter img {
+    width: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 16px;
+}
+
+.mini-cooper {
+
+    border-radius: 4px;
+    width: 500px;
+    text-align: center;
+    padding-left: 5px;
+}
+
+.mini-cooper p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+.mini-cooper img {
+    width: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 16px;
+}
+
+
+.one {
+    display: block;
+}
+
+.two {
+    display: block;
+}
+
+.three {
+    display: block;
+}
+
+
+
+.one-ocean-project {
+    border-radius: 4px;
+    width: 500px;
+    padding-left: 5px;
+}
+
+.one-ocean-project p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+.one-ocean-project img {
+    width: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 16px;
+}
+
+.table-project {
+    border-radius: 4px;
+    width: 600px;
+    padding-left: 5px;
+}
+
+.table-project p {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    padding-right: 20px;
+}
+
+.table-project img {
+    width: 50%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 16px;
+}
